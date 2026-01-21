@@ -1,0 +1,2 @@
+# NutriClass-Food-Classification-Using-Nutritional-Data
+In the era of increasing dietary awareness, the ability to classify food items based on nutritional attributes are invaluable. This involves developing a machine learning model that classifies food items. We need to create a robust model that can accurately label foods and gain insights into what makes food category distinct. management systems.
