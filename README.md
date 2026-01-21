@@ -10,9 +10,9 @@ STEP 2: Download all the files from this repository.
 STEP 3: Install all the packages in the requiremets.txt file using pip package installer.
 
 STEP 4: Set up the virtual environment as follows,
-
-  python -m venv venv
-  source venv/bin/activate
-  pip install -r requirements.txt
+   
+  python -m venv venv   
+  source venv/bin/activate   
+  pip install -r requirements.txt   
 
 STEP 5: You can run and improve this code on your own way. Thank you!
