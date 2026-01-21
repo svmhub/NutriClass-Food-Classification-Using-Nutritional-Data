@@ -9,7 +9,7 @@ Before begin this project code, kindly do the following procedures to setup your
 
 ### STEP 3: Install all the packages in the requiremets.txt file using pip package installer.
 
-### STEP 4: Set up the virtual environment as follows,
+### STEP 4: Set up the virtual environment, where you keep all the downloaded files folder as follows,
    
   python -m venv venv   
   source venv/bin/activate   
